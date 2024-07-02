@@ -110,7 +110,29 @@ D- Presentación: Video corto explicando el prototipo.
 
 E- RCS EM: Imagenes      
 
-README.md : Archivo de presentación de TP5      
+README.md : Archivo de presentación de TP5     
+
+
+## Trabajo practico 10    
+
+###  Entrenador basico  
+
+A- Requisitos: Soporte dado por el docente.    
+
+
+B- Investigación: Soporte realizado por el alumno.     
+
+
+C- Prototipo: Solución a los problemas o Implementación.     
+
+
+D- Presentación: Video corto explicando el prototipo.    
+
+
+E- RCS EM: Imagenes     
+
+README.md : Archivo de presentación de TP10
+
 
 
 
