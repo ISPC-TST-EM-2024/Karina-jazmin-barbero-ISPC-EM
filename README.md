@@ -1,4 +1,5 @@
-![alt text](<img em 1-1.jpg>)
+![alt text](IMG-1.jpg)   
+
 ## Docente: Gonzalo Vera      
 
 ## Alumna: Karina Jazmin Barbero    
